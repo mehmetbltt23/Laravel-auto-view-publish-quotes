@@ -4,7 +4,7 @@ If there are names in the route directory and keys in the config file, it automa
 This is a simple package.
 
 ### Setup
-``composer install``
+``composer require mehmetb/quotes``
 
 ### Register providers config\app.php
 ``Quotes\QuotesServiceProvider::class,``
