@@ -1,5 +1,5 @@
 {
-    "name": "serkan/quotes",
+    "name": "mehmetbulut/quotes",
     "description": "Laravel publish view variable by config",
     "autoload": {
         "psr-4": {
