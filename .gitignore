@@ -1,0 +1,5 @@
+/vendor
+/docker
+composer.lock
+docker-compose.yml
+.DS_Store

@@ -1,0 +1,22 @@
+{
+    "name": "serkan/quotes",
+    "description": "Laravel publish view variable by config",
+    "autoload": {
+        "psr-4": {
+            "Quotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammed Bulut"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1",
+        "illuminate/view": "^9.0",
+        "illuminate/console": "^9.0",
+        "illuminate/support": "^9.0",
+        "illuminate/http": "^9.0",
+        "illuminate/container": "^9.0"
+    }
+}
