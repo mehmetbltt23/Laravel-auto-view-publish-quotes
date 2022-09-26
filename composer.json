@@ -1,6 +1,7 @@
 {
     "name": "mehmetb/quotes",
     "description": "Laravel publish view variable by config",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Quotes\\": "src/"
